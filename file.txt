@@ -1,1 +1,4 @@
-trying to learn git and github right now.
+  trying to learn git and github right now.
+now im trying to learn hot to create, assign,pull,push.
+i learnt that we first need to create a branch to make changes in a file, we cant just make changes directly into master , we need to create a new branch,make changes there,commit it,then push it, then assign it to someone for reviewing, the other person can then merge it with origin/master,lateron also delete the new branch (once the changes are made in the master 
+)
